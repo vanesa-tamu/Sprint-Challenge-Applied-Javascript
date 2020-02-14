@@ -37,7 +37,7 @@ Edit this document to include your answers after each question. Make sure to lea
 4. Why would we convert a NodeList into an Array?
     In order to iterate through many items to make our code DRY.
 5. What is a component?
-    A componenet is a reusable function that abstracts away repetitive logic. It makes our code DRY as well. 
+    A componenet is a reusable code that abstracts away repetitive logic. It makes our code DRY as well. 
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
